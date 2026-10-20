@@ -1,0 +1,2570 @@
+[
+  {
+    "customer_id": "CUST-1001",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 5959.77,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-08-17 09:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-08-27 16:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-08-29 20:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1002",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-08-14 16:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-22 21:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-08-26 04:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1003",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 3999.1,
+    "touchpoint_count": 6,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-08-24 13:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-08-25 21:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-09-01 23:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-09-12 05:00:00"
+      },
+      {
+        "step_order": 5,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-09-14 06:00:00"
+      },
+      {
+        "step_order": 6,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-09-19 08:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1004",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 8237.8,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-07-14 18:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-07-16 21:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1005",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-08-14 16:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Retargeting_Video",
+        "timestamp": "2026-08-20 17:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-27 00:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1006",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-08-11 15:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-14 19:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1007",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 17961.83,
+    "touchpoint_count": 5,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-08-02 15:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-08-04 18:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "SEO Organic",
+        "campaign": "Homepage_DirectOrganic",
+        "timestamp": "2026-08-11 20:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-08-22 04:00:00"
+      },
+      {
+        "step_order": 5,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-08-31 05:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1008",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 4951.45,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-07-01 19:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-07-10 22:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-07-16 02:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-07-19 03:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1009",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Retargeting_Video",
+        "timestamp": "2026-08-21 12:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1010",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 14289.33,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-08-19 10:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1011",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-07-28 11:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Product_Comparison_Guides",
+        "timestamp": "2026-08-01 16:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1012",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 3492.4,
+    "touchpoint_count": 5,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-07-02 17:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-07-12 21:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-07-14 01:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-07-20 03:00:00"
+      },
+      {
+        "step_order": 5,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-07-25 11:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1013",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 3962.05,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-08-12 14:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-19 22:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1014",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-07-16 11:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-07-24 14:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1015",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-07-29 20:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-07-30 21:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1016",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 3408.85,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "SEO Organic",
+        "campaign": "Homepage_DirectOrganic",
+        "timestamp": "2026-07-25 08:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Product_Comparison_Guides",
+        "timestamp": "2026-08-02 13:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Retargeting_Video",
+        "timestamp": "2026-08-11 21:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1017",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 6,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-08-17 13:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-08-27 21:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-08-30 22:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-09-03 00:00:00"
+      },
+      {
+        "step_order": 5,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Competitor_Conquesting",
+        "timestamp": "2026-09-07 07:00:00"
+      },
+      {
+        "step_order": 6,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-09-11 08:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1018",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 5,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-07-16 12:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-07-21 20:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-07-23 04:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-07-25 06:00:00"
+      },
+      {
+        "step_order": 5,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-08-03 11:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1019",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-08-15 12:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-24 13:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1020",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-08-17 16:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-22 20:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1021",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-07-04 09:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Intent_HighValue_Search",
+        "timestamp": "2026-07-09 10:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-07-12 15:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1022",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-08-14 10:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-08-20 13:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-21 18:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1023",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-07-23 20:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Retargeting_Video",
+        "timestamp": "2026-08-02 23:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-08-06 06:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1024",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-21 11:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-23 18:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-08-31 22:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-09-07 03:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1025",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 3576.02,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-08-19 12:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-28 19:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-29 21:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1026",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 14689.64,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-07-28 17:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1027",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-07-01 16:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Competitor_Conquesting",
+        "timestamp": "2026-07-07 23:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1028",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-02 12:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-08 19:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-08-17 22:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1029",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-07-01 12:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Homepage_DirectOrganic",
+        "timestamp": "2026-07-08 18:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-07-16 22:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1030",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-08-09 13:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-14 17:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1031",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Intent_HighValue_Search",
+        "timestamp": "2026-08-09 20:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1032",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 4787.36,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-14 08:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-08-21 12:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Competitor_Conquesting",
+        "timestamp": "2026-08-30 20:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-09-03 22:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1033",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 6,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-08-09 19:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-08-19 03:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-27 11:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-09-01 19:00:00"
+      },
+      {
+        "step_order": 5,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Competitor_Conquesting",
+        "timestamp": "2026-09-07 03:00:00"
+      },
+      {
+        "step_order": 6,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-09-12 07:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1034",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Intent_HighValue_Search",
+        "timestamp": "2026-08-15 11:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1035",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 9012.22,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-08-27 20:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-08-29 03:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-09-04 08:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1036",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-07-25 13:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-07-28 21:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "SEO Organic",
+        "campaign": "Product_Comparison_Guides",
+        "timestamp": "2026-08-06 22:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1037",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-07-12 08:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1038",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-07-18 20:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-07-23 22:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-01 23:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1039",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-07-13 08:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Product_Comparison_Guides",
+        "timestamp": "2026-07-17 11:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "SEO Organic",
+        "campaign": "Product_Comparison_Guides",
+        "timestamp": "2026-07-19 15:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-07-24 21:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1040",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 11469.61,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-08-29 12:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-09-05 19:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Competitor_Conquesting",
+        "timestamp": "2026-09-07 23:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-09-13 01:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1041",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-07-01 14:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-07-03 21:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-07-12 00:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1042",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "SEO Organic",
+        "campaign": "Homepage_DirectOrganic",
+        "timestamp": "2026-08-19 15:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-29 20:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-09-01 01:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1043",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 10057.02,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-07-23 20:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-07-29 01:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1044",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-01 16:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1045",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 8768.22,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-07-16 12:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Product_Comparison_Guides",
+        "timestamp": "2026-07-24 18:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1046",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 6073.34,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-16 11:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Retargeting_Video",
+        "timestamp": "2026-08-25 14:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1047",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-03 17:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-08-07 22:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Competitor_Conquesting",
+        "timestamp": "2026-08-11 03:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-20 06:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1048",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-01 09:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Homepage_DirectOrganic",
+        "timestamp": "2026-08-11 14:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Retargeting_Video",
+        "timestamp": "2026-08-19 20:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1049",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-08-06 18:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1050",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Competitor_Conquesting",
+        "timestamp": "2026-07-06 11:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-07-13 15:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-07-21 23:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-07-29 04:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1051",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 12736.64,
+    "touchpoint_count": 5,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-07-11 11:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Intent_HighValue_Search",
+        "timestamp": "2026-07-13 14:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-07-21 22:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-07-26 03:00:00"
+      },
+      {
+        "step_order": 5,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-08-03 05:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1052",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-28 12:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-08-30 13:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1053",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 8738.88,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-07-18 16:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-07-26 18:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1054",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 12951.62,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-08-25 17:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-30 18:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-09-08 02:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1055",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 7893.4,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-07-22 13:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Product_Comparison_Guides",
+        "timestamp": "2026-07-25 19:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-03 00:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1056",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 17537.86,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-07-26 16:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-08-05 00:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-08-09 06:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1057",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-07-29 19:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-07-30 23:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1058",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-08-28 09:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-31 17:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "SEO Organic",
+        "campaign": "Homepage_DirectOrganic",
+        "timestamp": "2026-09-09 22:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1059",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 11790.35,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-17 10:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-08-22 17:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-08-27 18:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1060",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 5,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-07-22 16:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-07-30 22:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-08-04 05:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-05 11:00:00"
+      },
+      {
+        "step_order": 5,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-08-12 18:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1061",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-07-22 09:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1062",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "SEO Organic",
+        "campaign": "Homepage_DirectOrganic",
+        "timestamp": "2026-07-10 09:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1063",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-08-24 18:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-31 02:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-09-10 04:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1064",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 12323.09,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-08-25 09:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Intent_HighValue_Search",
+        "timestamp": "2026-08-30 10:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-08-31 15:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-09-07 18:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1065",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-08-09 18:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-08-19 21:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1066",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-08-27 12:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-08-29 20:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1067",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 17990.29,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-08-24 15:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-08-31 21:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-09-05 22:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1068",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-08-17 08:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-25 13:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-09-04 19:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1069",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-12 18:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-08-14 19:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-08-16 01:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1070",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 14690.95,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-08-26 13:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-08-31 16:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1071",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 14189.35,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-07-15 18:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Intent_HighValue_Search",
+        "timestamp": "2026-07-25 00:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-07-26 05:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-03 11:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1072",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-07-07 18:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-07-09 00:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-07-11 08:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Retargeting_Video",
+        "timestamp": "2026-07-18 10:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1073",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 10831.97,
+    "touchpoint_count": 6,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-07-25 15:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-08-03 22:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-08-07 05:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-15 12:00:00"
+      },
+      {
+        "step_order": 5,
+        "channel": "SEO Organic",
+        "campaign": "Homepage_DirectOrganic",
+        "timestamp": "2026-08-21 16:00:00"
+      },
+      {
+        "step_order": 6,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Competitor_Conquesting",
+        "timestamp": "2026-08-25 22:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1074",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Competitor_Conquesting",
+        "timestamp": "2026-08-30 15:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1075",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Retargeting_Video",
+        "timestamp": "2026-08-20 17:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1076",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-07-15 13:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-07-25 14:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-07-28 19:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1077",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-08-07 13:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1078",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 3485.15,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-07-29 20:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1079",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-08-16 20:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Intent_HighValue_Search",
+        "timestamp": "2026-08-24 21:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-09-01 04:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1080",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-07-05 10:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1081",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 10336.04,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-07-28 09:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "SEO Organic",
+        "campaign": "Homepage_DirectOrganic",
+        "timestamp": "2026-08-06 13:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1082",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 3973.83,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-07-28 13:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-03 16:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1083",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 13951.34,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-08-21 10:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-08-31 16:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-09-07 22:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-09-09 03:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1084",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-07-15 09:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-07-21 11:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-07-31 15:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1085",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-08-14 12:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-08-19 17:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-20 20:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1086",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-07-02 09:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1087",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 7527.93,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "Nurture_Drip_Series",
+        "timestamp": "2026-08-30 17:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Lookalike_Prospects",
+        "timestamp": "2026-08-31 20:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-09-01 22:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1088",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 10441.37,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Intent_HighValue_Search",
+        "timestamp": "2026-07-23 14:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-08-02 22:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-08-07 23:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1089",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 4627.14,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-07-17 12:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1090",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 13406.9,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-08-02 16:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Affiliate_TechPartners",
+        "timestamp": "2026-08-04 23:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "SEO Organic",
+        "campaign": "Organic_Blog_Tutorials",
+        "timestamp": "2026-08-12 00:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-08-18 07:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1091",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 14920.49,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-08-09 15:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1092",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "SEO Organic",
+        "campaign": "Homepage_DirectOrganic",
+        "timestamp": "2026-08-03 09:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "Enterprise_DecisionMakers",
+        "timestamp": "2026-08-09 13:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-08-11 15:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-08-15 21:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1093",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 4869.48,
+    "touchpoint_count": 1,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Brand_Search_Q3",
+        "timestamp": "2026-08-18 18:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1094",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-07-29 18:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-08-09 00:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Intent_HighValue_Search",
+        "timestamp": "2026-08-12 08:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-08-20 13:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1095",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-07-03 08:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-07-05 10:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1096",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 3,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "SEO Organic",
+        "campaign": "Product_Comparison_Guides",
+        "timestamp": "2026-08-27 08:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Email Marketing",
+        "campaign": "Product_Demo_Followup",
+        "timestamp": "2026-08-31 14:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Intent_HighValue_Search",
+        "timestamp": "2026-09-09 17:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1097",
+    "became_lead": true,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 6,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-07-03 11:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "Tech_Leaders_Sponsored",
+        "timestamp": "2026-07-11 14:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "SEO Organic",
+        "campaign": "Homepage_DirectOrganic",
+        "timestamp": "2026-07-16 21:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Referral / Partner",
+        "campaign": "Client_Referral_Incentive",
+        "timestamp": "2026-07-26 22:00:00"
+      },
+      {
+        "step_order": 5,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Competitor_Conquesting",
+        "timestamp": "2026-07-29 04:00:00"
+      },
+      {
+        "step_order": 6,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-08-05 09:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1098",
+    "became_lead": true,
+    "converted": true,
+    "revenue": 7922.22,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-11 19:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "LinkedIn B2B",
+        "campaign": "InMail_LeadGen",
+        "timestamp": "2026-08-14 21:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1099",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 4,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Webinar / Events",
+        "campaign": "Q3_Tech_Virtual_Summit",
+        "timestamp": "2026-08-23 19:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Paid Search (Google Ads)",
+        "campaign": "Intent_HighValue_Search",
+        "timestamp": "2026-08-31 01:00:00"
+      },
+      {
+        "step_order": 3,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_TopFunnel_Awareness",
+        "timestamp": "2026-09-05 04:00:00"
+      },
+      {
+        "step_order": 4,
+        "channel": "Social Ads (Meta)",
+        "campaign": "Meta_Retargeting_Video",
+        "timestamp": "2026-09-13 08:00:00"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-1100",
+    "became_lead": false,
+    "converted": false,
+    "revenue": 0.0,
+    "touchpoint_count": 2,
+    "touchpoints": [
+      {
+        "step_order": 1,
+        "channel": "Email Marketing",
+        "campaign": "ReEngagement_Campaign",
+        "timestamp": "2026-08-02 20:00:00"
+      },
+      {
+        "step_order": 2,
+        "channel": "Webinar / Events",
+        "campaign": "Product_DeepDive_Webinar",
+        "timestamp": "2026-08-11 21:00:00"
+      }
+    ]
+  }
+]
